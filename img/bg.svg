@@ -1,0 +1,43 @@
+<svg width="1440" height="1403" viewBox="0 0 1440 1403" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0_304_408)">
+<rect width="1440" height="1403" fill="white"/>
+<rect x="91.8223" y="41" width="132.25" height="150" transform="rotate(32.603 91.8223 41)" fill="url(#pattern0_304_408)"/>
+<rect x="1280.61" y="231.026" width="132.25" height="150" transform="rotate(-104.721 1280.61 231.026)" fill="url(#pattern1_304_408)"/>
+<rect x="1252.85" y="454.84" width="132.25" height="150" transform="rotate(-18.4796 1252.85 454.84)" fill="url(#pattern2_304_408)"/>
+<rect x="1382.07" y="814" width="132.25" height="150" transform="rotate(64.2193 1382.07 814)" fill="url(#pattern3_304_408)"/>
+<rect x="1396.11" y="1376.06" width="132.25" height="150" transform="rotate(-170.486 1396.11 1376.06)" fill="url(#pattern4_304_408)"/>
+<rect x="215.109" y="502.408" width="132.25" height="150" transform="rotate(108.424 215.109 502.408)" fill="url(#pattern5_304_408)"/>
+<rect x="226.411" y="1265.33" width="132.25" height="150" transform="rotate(116.818 226.411 1265.33)" fill="url(#pattern6_304_408)"/>
+<rect x="107.453" y="1042.69" width="132.25" height="150" transform="rotate(-145.091 107.453 1042.69)" fill="url(#pattern7_304_408)"/>
+</g>
+<defs>
+<pattern id="pattern0_304_408" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_304_408" transform="matrix(0.016129 0 0 0.0142204 0 -0.0474861)"/>
+</pattern>
+<pattern id="pattern1_304_408" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_304_408" transform="matrix(0.016129 0 0 0.0142204 0 -0.0474861)"/>
+</pattern>
+<pattern id="pattern2_304_408" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_304_408" transform="matrix(0.016129 0 0 0.0142204 0 -0.0474861)"/>
+</pattern>
+<pattern id="pattern3_304_408" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_304_408" transform="matrix(0.016129 0 0 0.0142204 0 -0.0474861)"/>
+</pattern>
+<pattern id="pattern4_304_408" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_304_408" transform="matrix(0.016129 0 0 0.0142204 0 -0.0474861)"/>
+</pattern>
+<pattern id="pattern5_304_408" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_304_408" transform="matrix(0.016129 0 0 0.0142204 0 -0.0474861)"/>
+</pattern>
+<pattern id="pattern6_304_408" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_304_408" transform="matrix(0.016129 0 0 0.0142204 0 -0.0474861)"/>
+</pattern>
+<pattern id="pattern7_304_408" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_304_408" transform="matrix(0.016129 0 0 0.0142204 0 -0.0474861)"/>
+</pattern>
+<clipPath id="clip0_304_408">
+<rect width="1440" height="1403" fill="white"/>
+</clipPath>
+<image id="image0_304_408" width="62" height="77" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAABNCAYAAAD+d9crAAAACXBIWXMAAAsSAAALEgHS3X78AAACrElEQVR4nO2bsVLjMBCG/8tQ3AwwoYPOzEAPPTBQ3lVQ3NXoEXg82nsEnmXV5wpECCaOJe2uVpbzVfbEkfRlE2W1ln+sVitYQOQfAPw8Pj56teh/YdFpwAH4bdW5iTiRPwHwDODKon/ALuLOqN81VuIvRv2uKS5O5K8BdKX77WMR8V8GfX5jLz439uI1QOSL/QyqEkfBTK428Ssif16io9rEgULJTY3irkQn6uIhU0thSeSdxlg2KRHxnJnaSQ+ij6p4WH7miN9rT3LaEXeM96pOctrinME7qUFsQ0081NQ4y88lkb8VGs43NCPuBNpQy+RUxIn8Ed5ralxuBNrYilbE1b6iUmiJ/1VqVwwt8QuldsWoMVcvwl58buzFp4BkJjcpcQhmciLiIVMrwY3UclUq4n965/cDxymvDZ27pJENICV+1zv/N3Cc8trQuUsa2QBs8VBTK5mpdUT+iduIRMQt7nU7bgMs8VBTY3/6GTwS+TNOA9yIPwFYMtvIhXWfjStuuaWD9Z+eLR4mNbNdSwBOOW/mRNx8Aw+HLPGQqVlMamLkRvwWdpOaCLni1dfUxsgVr76mNsbUlqViNCOemsk1I47ETK4l8aRMriXx05TlakviQMJyNUq8YE2Ny2NsTS424tXf/dzAxVwUKz6lTM3FXDQqblBT49LF3HiIifgUl5+jf207xQ1ralxGt5CMRdyypqbKmPgUv+ZRDIoT+UvY1tRU2RXxKp4W0mKXuNkDryXYJX5YbBQGtLZIiWYW4tuekpiFOLZM1LMRD1nomrmIA71V25zEv2Sha3HujfYJ0IWnJgB8jXh/51KLuI+DTfGmM7XA88cktwCA8GRf05naBg74jLgzG0Z5XgBgEcqx/R2ELdMR+esDAA943zH41rvgbeA49bzGdi//A9UXoyrQh/lpAAAAAElFTkSuQmCC"/>
+</defs>
+</svg>
